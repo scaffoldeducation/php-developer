@@ -31,7 +31,7 @@
 ```
 https://api.github.com/users
 ```
-### 2 - Criar um sistema de autenticação utilizando oAuth2 **Muito mais segurança**
+### 2 - Criar um sistema de autenticação utilizando oAuth2 `Muito mais segurança`
 
 ## FERRAMENTAS PARA DESENVOLVIMENTO
 
