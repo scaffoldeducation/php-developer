@@ -41,7 +41,7 @@ https://api.github.com/users
 
 ## MATERIAL DE APOIO
 
-* [Curso de Laravel 5.5 [PT-BR]](http://php.net/manual/pt_BR/)
+* [Curso de Laravel 5.5 [PT-BR]](https://goo.gl/5p5ZJW)
 * [Documentação Laravel:](https://laravel.com/docs/5.5)
 * [Documentação Oficial PHP:](http://php.net/manual/pt_BR/)
 * [Conteúdo sobre Laravel em inglês:](http://laracast.com)
