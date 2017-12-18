@@ -32,3 +32,16 @@
 https://api.github.com/users
 ```
 ### 2 - Criar um sistema de autenticação utilizando oAuth2 **Muito mais segurança**
+
+## FERRAMENTAS PARA DESENVOLVIMENTO
+
+* [Servidor PHP/MySQL para Windows:](http://wampserver.com/en/)
+* [Composer (utilizado para instalar o laravel e suas dependências):](https://getcomposer.org)
+* [Editor (pode ser qualquer outro):](https://sublimetext.com/3)
+
+## MATERIAL DE APOIO
+
+* [Curso de Laravel 5.5 [PT-BR]](http://php.net/manual/pt_BR/)
+* [Documentação Laravel:](https://laravel.com/docs/5.5)
+* [Documentação Oficial PHP:](http://php.net/manual/pt_BR/)
+* [Conteúdo sobre Laravel em inglês:](http://laracast.com)
