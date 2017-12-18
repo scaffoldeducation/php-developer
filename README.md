@@ -7,22 +7,22 @@
 ### 1 - Faça um **fork** deste repositório
 ### 2 - Garanta que apenas Jedi autorizados acessem o sistema utilizando a **autenticação padrão do laravel**
 ### 3 - Crie um CRUD inicial
-	* [C]reate - Onde os **Jedi** serão cadastrados
-		* ID
-		* Nome
-		* Nascimento
-		* Especie
-		* Genero
-		* Altura
-		* Foto
-		* Status
-	* [R]ead   - Lista os **Jedi** cadastrados no sistema
-		* Foto
-		* Nome
-		* Especie
-		* Genero
-	* [U]pdate - Possibilidade de alterar os dados de um **Jedi**
-	* [D]elete - Excluir um **Jedi** que foi para o lado negro da força!
+* [C]reate - Onde os **Jedi** serão cadastrados
+	* ID
+	* Nome
+	* Nascimento
+	* Especie
+	* Genero
+	* Altura
+	* Foto
+	* Status
+* [R]ead   - Lista os **Jedi** cadastrados no sistema
+	* Foto
+	* Nome
+	* Especie
+	* Genero
+* [U]pdate - Possibilidade de alterar os dados de um **Jedi**
+* [D]elete - Excluir um **Jedi** que foi para o lado negro da força!
 
 ## DIFERENCIAIS
 #### Estes desafios devem ser feitos apenas se você sentir que a `força está com você`. Mas se fizer, será um diferencial bacana!
